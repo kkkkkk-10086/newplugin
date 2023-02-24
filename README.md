@@ -1,4 +1,4 @@
-#### [![访问](https://profile-counter.glitch.me/kkkkkk-10086/count.svg)](https://gitee.com/kkkkkkxuan/newplugin.git)
+#### [![访问](https://profile-counter.glitch.me/newplugin/count.svg)](https://gitee.com/kkkkkkxuan/newplugin.git)
 
 
 # 安装教程
