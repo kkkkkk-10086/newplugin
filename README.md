@@ -8,8 +8,10 @@ git clone https://gitee.com/kkkkkkxuan/newplugin.git
 ```
 复制.js文件到example目录重启yunzai程序
 
-# 简介
+# 目前实现了
 视频功能.js
 - [x] 解析抖音视频
 - [x] 解析抖音图集
 - [x] 解析抖音评论
+- [x] 解析Tik Tok视频
+- [x] 解析快手视频

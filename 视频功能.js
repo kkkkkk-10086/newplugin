@@ -358,7 +358,7 @@ async Tiktok(e){
   let mp4= await fetch(`${data.video_data.nwm_video_url_HQ}`,{method: "get",headers:qiy});
   e.reply([`发现Tik Tok分享...\n正在读取 URL...`]);
   let lopp = await mp4.buffer();
-  let path =`${_path}/plugins/example/记录/video/Tiktok.mp4`;
+  let path =`${_path}/plugins/example/Tiktok.mp4`;
   fs.writeFile(path,lopp,"binary",function (err) {
     if (!err) {
   // 下载视频成功
@@ -510,7 +510,7 @@ async kuaiscz(e){
   let mp4= await fetch(`${shipdz}`,{method: "get",headers:qiy});
   
   let lopp = await mp4.buffer();
-  let path =`${_path}/plugins/example/记录/video/快手.mp4`;
+  let path =`${_path}/plugins/example/快手.mp4`;
   fs.writeFile(path,lopp,"binary",function (err) {
   console.log(err || "下载视频成功");
     if (!err) {
